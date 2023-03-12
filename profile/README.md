@@ -12,7 +12,7 @@ We've been assigned by our supervisor in the Fazztrack Camp-Golang Class to coll
 
 We have been able to complete the project successfully. Even in our spare time, we still contribute to this project.
 
-## 🌈 The Result: 
+## 🌈 The Impact: 
 It has been a valuable experience for us to collaborate on this project. Hopefully, we can apply what we have learned in our respective companies in our future journeys.
 
 ## 🧙 Artifacts: 
