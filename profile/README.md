@@ -1,4 +1,4 @@
-## Hello there, We are Wafello 👋
+## Hi there, We are Wafello 👋
 
 We've been assigned by our supervisor in the Fazztrack Camp-Golang Class to collaborate on building this Lectronic App Project.
 
