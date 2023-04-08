@@ -8,7 +8,7 @@ We've been assigned by our supervisor in the Fazztrack Camp-Golang Class to coll
 - [Muhammad Angga Ardhinata](https://github.com/AnggaArdhinata): as Developer
 
 ## 🍿 The Experience 
-1 week sprint to complete the project. We are using Scrum approach to collaborate. We have learned tools such as Trello for organizing our project backlog. We have also learned how to collaborate in Git, how to resolve conflicts, work asynchronously, merge branches, and so on.
+We are using Scrum approach to collaborate. We learned using tools such as Trello for organizing our project backlog. We also learned how to collaborate in Git, how to resolve conflicts, work asynchronously, merge branches, and so on.
 
 We have been able to complete the project successfully. Even in our spare time, we still contribute to this project.
 
