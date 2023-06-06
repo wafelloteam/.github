@@ -3,9 +3,9 @@
 We've been assigned by our supervisor in the Fazztrack Camp-Golang Class to collaborate on building this Lectronic App Project.
 
 ## 🙋 The Team
-- [Rizaldi Fauzi](https://github.com/rfauzi44): as Project Manager
-- [Ahmad Saifudin Ardhiansyah](https://github.com/ardhisaif): as Developer
-- [Muhammad Angga Ardhinata](https://github.com/AnggaArdhinata): as Developer
+- [Rizaldi Fauzi](https://github.com/rfauzi44) as Project Manager
+- [Ahmad Saifudin Ardhiansyah](https://github.com/ardhisaif) as Developer
+- [Muhammad Angga Ardhinata](https://github.com/AnggaArdhinata) as Developer
 
 ## 🍿 The Experience 
 We are using Scrum approach to collaborate. We learned using tools such as Trello for organizing our project backlog. We also learned how to collaborate in Git, how to resolve conflicts, work asynchronously, merge branches, and so on.
