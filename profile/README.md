@@ -1,6 +1,6 @@
 ## Hi there, We are Wafello 👋
 
-We've been assigned by our supervisor in the Fazztrack Camp-Golang Class to collaborate on building this Lectronic App Project.
+We've been assigned by our supervisor in the Fastrack Camp-Golang Class to collaborate on building this Lectronic App Project.
 
 ## 🙋 The Team
 - [Rizaldi Fauzi](https://github.com/rfauzi44) as Project Manager
